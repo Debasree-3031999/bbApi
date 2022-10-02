@@ -1,0 +1,32 @@
+{
+  "name": "big_basket_rest_api",
+  "version": "1.0.0",
+  "description": "Rest API ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debasree-3031999/bbApi.git"
+  },
+  "keywords": [
+    "bb",
+    "big-basket",
+    "javascript",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Debasree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Debasree-3031999/bbApi/issues"
+  },
+  "homepage": "https://github.com/Debasree-3031999/bbApi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.3",
+    "nodemon": "^2.0.20"
+  }
+}
